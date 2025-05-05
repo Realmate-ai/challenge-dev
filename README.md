@@ -118,10 +118,12 @@ pip install poetry
 
 ### Instalação do Projeto
 
-1.	Crie um repositório público, utilizando este repositório como template. Para isso, clique sobre o botão "**Use this template**", no canto superio direito desta tela.
-
 > [!WARNING]  
-> Forks **NÃO** serão aceitos.
+> Siga todas as instruções de instalação do projeto. O descumprimento dos requisitos de instalação acarretará a desclassificação do(a) candidato(a).
+
+1.	Crie um repositório público, utilizando este repositório como template. Para isso, clique sobre o botão "**Use this template**", no canto superio direito desta tela. Forks **não** serão aceitos.
+
+
 
 2.	Instale as dependências do projeto utilizando o Poetry:
 
