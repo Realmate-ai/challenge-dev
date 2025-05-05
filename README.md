@@ -118,7 +118,10 @@ pip install poetry
 
 ### Instalação do Projeto
 
-1.	Realize o Fork deste projeto para o seu GitHub.
+1.	Crie um repositório público, utilizando este repositório como template. Para isso, clique sobre o botão "**Use this template**", no canto superio direito desta tela.
+
+> [!WARNING]  
+> Forks **NÃO** serão aceitos.
 
 2.	Instale as dependências do projeto utilizando o Poetry:
 
